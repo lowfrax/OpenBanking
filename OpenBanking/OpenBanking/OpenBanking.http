@@ -1,0 +1,6 @@
+@OpenBanking_HostAddress = http://localhost:5215
+
+GET {{OpenBanking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
